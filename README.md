@@ -3,7 +3,7 @@
 ## Table of Contents: 
 * [Description](#description)
 * [Actions Taken](#actions-taken)
-* [Screen Shot](#screen)
+* [Screen Shot](#screen-shot)
 * [Links](#links)
 
 ## Description
@@ -17,7 +17,7 @@ To create an interactive weather dashboard the gives the user the ability to loo
 
 ## Screen Shot
 
-
+![image](https://user-images.githubusercontent.com/107436206/205464918-b69d6570-2476-4153-a209-9ba9b2784ea8.png)
  
 ## Links
 * Github Link: https://github.com/msalamey/Mo-Salamey-Weather-Dashboard
